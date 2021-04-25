@@ -1,5 +1,6 @@
 # CivSafe
 # A Safety Tool for Civics
+![CivSafe-Logo_1](https://user-images.githubusercontent.com/46274158/116006941-0a354580-a62b-11eb-8964-8775032a3519.png)
 ## Inspiration
 Hate crimes have been an unfortunate part of our history, with many minority groups 
 simply putting up with these offences or suffering in silence. Even with the amount of media attention these crimes have been receiving recently, perpetrators often get away and commit further acts of terror against vulnerable groups. 
