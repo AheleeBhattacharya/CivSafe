@@ -1,6 +1,5 @@
 # CivSafe
 # A Safety Tool for Civics
-![CivSafe-Logo_1](https://user-images.githubusercontent.com/46274158/116006941-0a354580-a62b-11eb-8964-8775032a3519.png)
 ## Inspiration
 Hate crimes have been an unfortunate part of our history, with many minority groups 
 simply putting up with these offences or suffering in silence. Even with the amount of media attention these crimes have been receiving recently, perpetrators often get away and commit further acts of terror against vulnerable groups. 
@@ -26,7 +25,7 @@ Used Node.js, Swift, Blockchain
 Our group was in three different time zones(EST, PST, IST), and some of us had limited exposure to blockchain/javascript
 
 ## Accomplishments that we're proud of & What we learned
-Learned a lot about how front end and backend can be connected, able to connect xcode(swift) to node.js. Got idea about using ipfs. Overcame time zone challenges to create a functional product.
+Over the past few days, we learned a lot about how the frontend and backend connects, and we were ultimately able to connect Xcode to node.js and use ipfs.
 
 ## What's next for CivSafe
-Working on more suitable option that'll ease the case reports and faster the speed. 
+We are working on a more suitable option that applies to variety of circumstances, not just hate crimes. 
