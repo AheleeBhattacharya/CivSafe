@@ -24,6 +24,7 @@ Civsafe gives us all a platform to keep each other safe.
 Used Node.js, Swift, Blockchain
 ## Challenges we ran into
 Our group was in three different time zones(EST, PST, IST), and some of us had limited exposure to blockchain/javascript
+We were able to establish a connection between our app, server, and the blockchain. However, we're still having some issues transferring the data. Something to keep working at! https://ipfs.infura.io/ipfsQmZhRYdRoU862tyDPzstbohGpjijRU3ZxV9SXhwBg1xfpk
 
 ## Accomplishments that we're proud of & What we learned
 Over the past few days, we learned a lot about how the frontend and backend connects, and we were ultimately able to connect Xcode to node.js and use ipfs.
