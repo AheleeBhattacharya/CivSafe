@@ -22,8 +22,7 @@ Civsafe gives us all a platform to keep each other safe.
 ## How we built it
 Used Node.js, Swift, Blockchain
 ## Challenges we ran into
-Group was in three different time zones(EST, PST, IST)
-Limited exposure to blockchain/javascript
+Our group was in three different time zones(EST, PST, IST), and some of us had limited exposure to blockchain/javascript
 
 ## Accomplishments that we're proud of & What we learned
 Learned a lot about how front end and backend can be connected, able to connect xcode(swift) to node.js. Got idea about using ipfs. Overcame time zone challenges to create a functional product.
